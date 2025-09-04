@@ -1,0 +1,5 @@
+# Project 1: Launch EC2 & SSH Connect
+
+# 1. SSH into EC2 Instance
+ssh -i Naman.pem ec2-user@3.110.29.135
+
