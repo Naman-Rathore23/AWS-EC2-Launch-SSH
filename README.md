@@ -7,4 +7,4 @@
 
 ## Screenshot
 - Successful SSH connection
-![](./Screenshots/ssh-connected.png)
+![](./AWS-EC2-Launch-SSH/Screenshots/ssh-connected.png)
